@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
-//𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
+//                              KING-丅IǤǤᗴᖇ 𝓫𝔂 KING 丅IǤǤᗴᖇ
+//prabhash laknindu king 丅IǤǤᗴᖇ COPY BY gojo sataru
 //
 //════════════════════════════//
 
@@ -19,32 +19,32 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.owner = ['94704045022']
+global.premium = ['94704045022']
+global.ownernomer = '94704045022'
+global.ownername = 'KING 丅IǤǤᗴᖇ'
+global.botname = 'PrAbHaShA LaKnInDu 丅IǤǤᗴᖇ'
+global.footer = '©gojobotcopy丅IǤǤᗴᖇ.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
+global.packname = 'king 丅IǤǤᗴᖇ'
+global.author = 'king 丅IǤǤᗴᖇ'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','👑','🐅','☣️']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    admin: 'අයිති කරුට පමණි!',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
+    owner: 'අයිතිකරුට පමණි!',
+    group: 'ගරූප් පමනි!',
+    private: 'පුද්ගලික ගනුදෙනු සදහා පමනි!',
+    bot: 'ඔබට කල නොහැකි දෙයකි',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'භාවිතා කල හැකි කාලය අවසානයි. The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
